@@ -3390,9 +3390,9 @@ lodash.sortby@^4.7.0:
   integrity sha1-7dFMgk4sycHgsKG0K7UhBRakJDg=
 
 lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@2.2.0:
   version "2.2.0"
@@ -4658,10 +4658,10 @@ samsam@1.3.0:
   resolved "https://registry.yarnpkg.com/samsam/-/samsam-1.3.0.tgz#8d1d9350e25622da30de3e44ba692b5221ab7c50"
   integrity sha512-1HwIYD/8UlOtFS3QO3w7ey+SdSDFE4HRNLZoZRYVQefrOY3l17epswImeB1ijgJFQJodIaHcwkp3r/myBjFVbg==
 
-samsung-tv-control@^1.7.2:
-  version "1.7.11"
-  resolved "https://registry.yarnpkg.com/samsung-tv-control/-/samsung-tv-control-1.7.11.tgz#6d1a13b2df710bd4f5b40822c69518ccb6ffda70"
-  integrity sha512-o3XIMn73tu+M7hxhgHCFSnHACYSiTvI2CJojvqU4hGBfL237hb4RojL9eBU/i70bUo9cVKX5RqLij0Cv/Ft61A==
+samsung-tv-control@1.7.2:
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/samsung-tv-control/-/samsung-tv-control-1.7.2.tgz#9304e962473bf2820b4f0347e71a64f85d591b72"
+  integrity sha512-FqaPbPLr4LopqMtrqDi0DrYHNnDtdtsM8/explTSVm1jWg10F/DIMQtrOY6fJ+ieTVjmuEPGBMTN4+wNmeWWhw==
   dependencies:
     node-ssdp "^4.0.0"
     request "^2.88.0"
